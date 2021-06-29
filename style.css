@@ -1,0 +1,13 @@
+#title
+{
+    background-color: #ff4c68;
+    padding: 2% 15%;
+}
+#title h1
+{
+    font-family: 'Montserrat-Black', sans-serif;
+    color: black;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
